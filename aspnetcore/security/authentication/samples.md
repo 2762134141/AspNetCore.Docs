@@ -10,4 +10,4 @@ uid: security/authentication/samples
 
 By [Rick Anderson](https://twitter.com/RickAndMSFT)
 
-See  <xref:security/authentication/index> and the topics in the under Authentication for and overview of authentication and code snippets.
+See <xref:security/authentication/index> and the topics in the under **Authentication** for an overview of authentication and code snippets.
